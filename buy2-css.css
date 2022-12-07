@@ -1,0 +1,43 @@
+body{
+    background-color: #1B263B;
+}
+.buy{
+    display: inline-block;
+    margin :50px;
+    background-color:#415A77;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    height: 100%;
+    width: 60%;
+    margin-left: 2%;
+    font-size: large;
+}
+.titre {
+
+ 
+    color: white;
+    padding-left: 20px;
+    float:left ;
+    width: 15px;
+   }
+.buy .table{
+    border-style:dashed;
+    border-color: #1B263B;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+    
+}
+h1{
+    font-family: 'arial';
+    text-decoration: underline;
+    color: #0D1B2A;}
+    p{  
+        font-size: x-large;
+        text-decoration-line: underline;
+    text-decoration-style: dotted;
+    color: #E0E1DD;
+}
+.buy h2 {
+    color: #8ECAE6;
+}
